@@ -1,5 +1,5 @@
 # egn-npc_interaction
-NPC Interaction is similar to FivePD but designed to work with QB-Core. It requires the following changes to qb-radialmenu/config.lua
+NPC Interaction is similar to FivePD but designed to work with QB-Core. It is in the early stages of development. It requires the following changes to qb-radialmenu/config.lua
 
 Replace the section labelled "police" with the following.
 
